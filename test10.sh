@@ -1,0 +1,1 @@
+./a.out 1 2 3 4 u f d f p q

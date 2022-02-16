@@ -1,0 +1,1 @@
+./a.out r 1 r 2 3 4 5 f r f q
